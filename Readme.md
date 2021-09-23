@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Philipp Shamin](https://up.htmlacademy.ru/htmlcss/32/user/1241075).
-* Наставник: Олег Цыганов.
+* Наставник: [Олег Цыганов](https://htmlacademy.ru/profile/olegtsyganov).
 
 ---
 
